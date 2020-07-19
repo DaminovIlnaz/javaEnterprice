@@ -1,0 +1,15 @@
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\models\Supermarket.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\repositories\BuyersRepository.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\services\SupermarketsService.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\models\Seller.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\services\SupermarketsServiceImpl.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\HateoasRestApp.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\models\Product.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\repositories\SupermarketsRepository.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\controllers\SupermarketsController.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\models\Buyer.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\repositories\SellersRepository.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\repositories\ProductsRepository.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\repositories\BasketsRepository.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\models\Basket.java
+C:\Users\admin\IdeaProjects\microservices\supermarkets_hateoas\src\main\java\ru\itis\kpfu\hateoasrest\supermarket\config\SupermarketsRepresentationProcessor.java

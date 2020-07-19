@@ -1,0 +1,16 @@
+|===
+|Path|Type|Description
+
+|`+title+`
+|`+String+`
+|Название магазина
+
+|`+description+`
+|`+String+`
+|Описание супермаркета
+
+|`+state+`
+|`+String+`
+|Состояние магазина
+
+|===
